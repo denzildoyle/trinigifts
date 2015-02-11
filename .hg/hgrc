@@ -1,0 +1,6 @@
+[paths]
+default = https://bitbucket.org/eanimate/trinigifts
+
+
+[tortoisehg]
+cipushafter = https://bitbucket.org/eanimate/trinigifts
